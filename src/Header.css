@@ -1,0 +1,34 @@
+.head{
+    height:55px;
+    width:88px;
+}
+.navbar{
+    height:65px;
+    color:black;
+
+}
+
+#oyo{
+    margin-left:50px;
+    margin-top: -11px ;
+}
+.icon{
+    height:40px;
+}
+
+/* 
+@media screen and (max-width:800px){
+    body{
+        background-color: rgb(230, 188, 238);
+    }
+    .icon{
+        visibility: hidden;
+   
+    
+    }
+    .dive{
+        visibility:hidden;
+    }
+
+   
+} */

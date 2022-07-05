@@ -1,0 +1,95 @@
+#search{
+    height:250px;
+    border:2px solid red;
+    margin-top: 0%;
+    background-color:rgb(219, 15, 42) ;
+}
+#heading{
+    color:aliceblue;
+    
+    font-weight: bold;
+    margin-left: 309px;
+    margin-top: 42px;
+
+}
+.city{
+    margin-left: 27%;
+    margin-top: 30px;
+    height: 56px;
+    width: 149px;
+}
+
+.hotels{
+    margin-left: 1%;
+    margin-top: 30px;
+    height: 56px;
+    width: 410px;
+
+}
+
+.sea{
+    margin-left: 1%;
+    margin-top: -2px;
+    height: 56px;
+    width: 80px;
+}
+
+
+@media screen and (max-width:1600px){
+    
+    
+}
+@media screen and (max-width:1400px){
+    body{
+        background-color: rgb(40, 169, 70);
+    }
+    
+}
+@media screen and (max-width:1200px){
+    body{
+        background-color: rgb(130, 71, 178);
+    }
+    #heading{
+        color:aliceblue;
+        
+        font-weight: bold;
+        margin-left: 190px;
+        margin-top: 42px;
+    
+    }
+    .ad{
+        margin-left:100px;
+        margin-top:30px;
+        float:left;
+        height:200px;
+    
+    }
+    
+    .ad1{
+        margin-left: 660px;
+        margin-top: -200px;
+        height: 200px;
+        float: left;
+    }
+    
+    
+    
+}
+@media screen and (max-width:1000px){
+    body{
+        background-color: rgb(215, 114, 55);
+    }
+    
+}
+@media screen and (max-width:800px){
+    body{
+        background-color: rgb(145, 80, 158);
+    }
+    
+}
+@media screen and (max-width:600px){
+    body{
+        background-color: rgb(158, 190, 70);
+    }
+    
+}

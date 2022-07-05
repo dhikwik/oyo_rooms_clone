@@ -1,0 +1,18 @@
+#jbus{
+    width: 98%;
+    height:600px;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+#jtext{
+    color:rgb(21, 2, 2);
+    margin-top:-30%;
+    margin-left: 5%;
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+ 

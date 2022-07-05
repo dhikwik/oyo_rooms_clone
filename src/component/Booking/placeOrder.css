@@ -1,0 +1,203 @@
+#pbox{
+    
+    height:550px;
+    width:90%;
+    margin-top: 7%;
+    margin-left: 3%;
+}
+
+#pside1{
+    border:1px solid black;
+    height:550px;
+    width:50%;
+    margin-top: 0%;
+    margin-left: 3%;
+    float:left;
+
+}
+#pside2{
+    box-shadow: 5px 5px 5px 5px grey;
+    height:550px;
+    width:35%;
+    margin-top: 0%;
+    margin-left: 59%;
+
+}
+
+#pcoup{
+    
+    height:50px;
+    width:100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    background-color:  #4b2121;
+    color:#8ac33e;
+}
+
+#pdet{
+    
+    height:500px;
+    width:100%;
+    margin-top: 3%;
+    margin-left: 0%;
+
+}
+
+#penter{
+   
+    height:50px;
+    width:100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    background-color: rgb(255, 46, 46);
+
+}
+
+#pthedetail{
+    margin-top: 1%;
+    margin-left: 10%;
+    color: white;
+    font-size:27px;
+
+}
+#ptext{
+    margin-top: 5%;
+    margin-left: 5%;
+    
+    font-size:20px;
+
+}
+#eemail{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+#email1{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+#name{
+    
+        margin-top: 5%;
+        margin-left: 5%;
+    
+     
+}
+#phone{
+    margin-top: 5%;
+        margin-left: 5%;
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  #pbut{
+    height:50px;
+    width:100px;
+    margin-top: 5%;
+    margin-left: 40%;
+
+  }
+
+  #ppic{
+    height: 142px;
+    width: 254px;
+    margin-top: 10%;
+    margin-left: 18%;
+
+  }
+  #right{
+      margin-left:2%;
+      
+    margin-top: 3%;
+       
+  }
+
+  #phead{
+   
+    margin-top: 1%;
+     font-size:25px;
+  }
+
+  #pstar{
+     font-size:15px;
+    margin-top: 5%;
+    margin-left: 1%;
+
+  }
+
+  #pawe{
+    font-size:20px;
+    margin-top: -0%;
+    margin-left: 0%;
+    color:grey;
+
+  }
+
+  #ptime{
+    margin-top: 6%;
+    margin-left:3%;
+  }
+
+  #prooms{
+     
+        font-size:20px;
+        margin-top: 6%;
+        margin-left: 3%;
+  }
+  #pnum{
+    font-size:20px;
+    margin-top: 6%;
+    margin-left: 52%;
+  }
+
+  #pdate{
+      
+    font-size:20px;
+    margin-top: 6%;
+    margin-left: 4%;
+  }
+  #pdatenum{
+    margin-left: 50%;
+    font-size:20px;
+  }
+  #proomnum{
+    margin-left: 48%;
+    font-size:20px;
+  }
+
+  #ptotal{
+ 
+     
+        font-size:20px;
+        margin-top: 6%;
+        margin-left: 3%;
+  
+  }
+
+  #total{
+    font-size:20px;
+    margin-top: 6%;
+    margin-left: 3%;
+
+  }
+
+  #ptotalnum{
+    margin-left: 35%;
+  }
+
+  #word{
+    font-size:20px;
+    margin-top: 1%;
+    margin-left: 3%;
+
+
+  }

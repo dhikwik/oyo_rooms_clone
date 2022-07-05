@@ -1,0 +1,18 @@
+#location{
+    height:50px;
+    
+    
+    margin-top: 0px;
+}
+.dropdown>a{
+    margin-left:5%;
+    word-spacing:50px;
+    font-size:20px;
+    text-decoration:none;
+    margin-top:2%;
+    color:black;
+
+}
+.dropdown{
+    margin-left:20%;
+}

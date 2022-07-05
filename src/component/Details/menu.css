@@ -1,0 +1,111 @@
+.payment{
+    border:1px solid black;
+    margin-left: 9%;
+    margin-top:2%;
+    float:left;
+    height:750px;
+    width:30%;
+}
+.paycontent{
+    margin-left:5%;
+}
+
+.login{
+    height:12%;
+    background-color:rgb(243, 42, 42);
+}
+.book{
+    color:white;
+    font-size:30px;
+    margin-left:2%;
+    font-weight:bold;
+    text-align:center;
+}
+.price{
+    margin-left:2%;
+    margin-top:4%;
+    font-size:30px;
+}
+.choose{
+    font-size:25px;
+    
+}
+.date{
+    margin-left:4%;
+    
+}
+.cat{
+    font-size:30px;
+    margin-top:10%;
+}
+
+.select>select{
+    height:30px;
+    width:50%;
+}
+.cata{
+    margin-top:9%;
+}
+.roomno{
+    height:60px;
+    width:70%;
+    margin-left:9%;
+    margin-top:9%;
+    
+}
+.roo{
+    font-size:20px;
+}
+.box{
+    height:40px;
+    width:90%;
+    margin-left:1%;
+    margin-top:9%;
+    box-shadow:1px 1px 3px grey;
+}
+.boxx{
+    font-size:17px;
+    margin-left:2%;
+    color:red;
+    text-align:center;
+     
+}
+
+.pricee{
+    height:40px;
+    width:90%;
+    margin-left:1%;
+    margin-top:9%;
+ 
+}
+
+.prices{
+    font-size:20px;
+}
+.pricef{
+    margin-left:50%;
+    font-size:20px;
+    font-weight:bold;
+}
+
+#but{
+    margin-left:14%;
+    height:50px;
+    width:70%;
+    margin-top:5%;
+}
+
+div input[type=number]{
+    margin:8px 0;
+    padding:8px;
+    width:100%;
+    font-size:10px;
+}
+
+div input[type=date]{
+    margin:8px 0;
+    padding:8px;
+    width:80%;
+    font-size:10px;
+
+}
