@@ -7,7 +7,7 @@ import Listing from './component/Listing/listing';
 import Details from './component/Details/resDetails';
 import ViewOrder from './component/Booking/viewOrder';
 import PlaceOrder from './component/Booking/placeOrder';
-import Login from './component/Login/login';
+// import Login from './component/Login/login';
 import Register from './component/Login/register';
 import Form from './component/Login/form';
 import Joinoyo from './component/Navbar/joinoyo';

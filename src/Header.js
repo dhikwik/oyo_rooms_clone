@@ -61,7 +61,7 @@ class Header extends Component{
                      <li className="dive"><Link to="/member"><img src="https://img.icons8.com/external-those-icons-fill-those-icons/24/000000/external-tag-bookmarks-tags-those-icons-fill-those-icons-2.png" alt="alt"className="icon"/> Become a member</Link></li>
                     <li className="dive"><Link to="/joinoyo"><img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/000000/external-building-landscape-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" alt="alt"className="icon"/><span> List your properties</span></Link></li>
     
-                    <li className="dive"><a href="#"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-world-web-and-social-media-flatart-icons-outline-flatarticons.png" alt="alt" className="icon"/><span> English</span></a></li>
+                    <li className="dive"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-world-web-and-social-media-flatart-icons-outline-flatarticons.png" alt="alt" className="icon"/><span> English</span></li>
                     {this.conditionalHeader()}
 
     
