@@ -5,8 +5,8 @@ import Header from '../../Header';
 
 
 
-const url="https://oyodhiksha.herokuapp.com/details/"
-const postData = " https://oyodhiksha.herokuapp.com/placeOrder"
+const url="https://oyoapi-6pq8.onrender.com/details/"
+const postData = "https://oyoapi-6pq8.onrender.com/placeOrder"
 
 
 

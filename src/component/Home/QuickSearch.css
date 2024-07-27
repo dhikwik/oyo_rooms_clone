@@ -16,3 +16,11 @@
 .dropdown{
     margin-left:20%;
 }
+
+.loader{
+    height:45px;
+    display: flex;
+    flex-direction:row;
+    margin-left:33%;
+    padding: 1% 1%;
+}

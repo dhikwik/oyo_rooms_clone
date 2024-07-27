@@ -6,7 +6,7 @@ import Header from '../../Header';
 
 //import {Link} from 'react-router-dom'
  
-const url="https://oyodhiksha.herokuapp.com/details/"
+const url="https://oyoapi-6pq8.onrender.com/details/"
   
  
 class Details extends Component{

@@ -201,3 +201,11 @@ input[type=text] {
 
 
   }
+
+  .thank-you{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+  }

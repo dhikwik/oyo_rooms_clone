@@ -1,9 +1,9 @@
 import React,{Component} from 'react';
 import axios from 'axios';
 
-const curl="https://oyodhiksha.herokuapp.com/category"
+const curl="https://oyoapi-6pq8.onrender.com/category"
 
-const url = "https://oyodhiksha.herokuapp.com/filter";
+const url = "https://oyoapi-6pq8.onrender.com/filter";
 
 class CuisineFilter extends Component {
 

@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import {Link} from 'react-router-dom';
 
 import './QuickSearch.css';
-const lurl="https://oyodhiksha.herokuapp.com/states"
+const lurl="https://oyoapi-6pq8.onrender.com/states"
 
 class QuickSearch extends Component{
 
@@ -12,7 +12,8 @@ class QuickSearch extends Component{
 
 
         this.state={
-            location:''
+            location:'',
+            loading: true
             
         }
     }
@@ -37,8 +38,14 @@ class QuickSearch extends Component{
         <>
             <div id="location">
                 <div className="dropdown">
-                    {this.renderCity(this.state.location)} 
-                    
+                {this.state.loading ? (
+                    <div className="loader">
+                            <img src="https://i.ibb.co/Gds0JKs/gif.gif" alt="gif"/>
+                             <div className="loader-text">Loading...</div> 
+                    </div>
+                        ) : (
+                            this.renderCity(this.state.location)
+                        )}                    
                      
                 </div>
             </div>
@@ -51,6 +58,7 @@ componentDidMount(){
         .then((res) =>  res.json())
         .then((data) => {
             this.setState({location:data})
+            this.setState({loading:false})
         })
 }
 }

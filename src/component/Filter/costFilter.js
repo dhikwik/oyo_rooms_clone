@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import axios from 'axios';
-const burl="https://oyodhiksha.herokuapp.com/hotel/"
-const url = " https://oyodhiksha.herokuapp.com/filter";
-//https://oyodhiksha.herokuapp.com/filter/1?lcost=200&hcost=700
+const burl="https://oyoapi-6pq8.onrender.com/hotel/"
+const url = "https://oyoapi-6pq8.onrender.com/filter";
+// https://oyoapi-6pq8.onrender.com/filter/1?lcost=200&hcost=700
 class CostFilter extends Component {
 
     filterCost = (event) => {

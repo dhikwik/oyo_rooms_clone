@@ -4,9 +4,9 @@ const Footer = () =>{
     return(
         <React.Fragment>
             <hr/>
-            <center>
-                <h3>&copy; Dhiksha</h3>
-            </center>
+            <div className="footer">
+                <h6>&copy; Dhiksha</h6>
+            </div>
         </React.Fragment>
     )
 }

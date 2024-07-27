@@ -4,13 +4,13 @@ import Header from '../../Header';
 
 
 class Joinoyo extends Component{
-
+   
     render(){
         return(
             <>
             <Header/>
             <div>
-                    <img src="https://i.ibb.co/cxq1fGY/HAND.webp" alt ="images" id="jbus"/>
+                    <img src="https://i.ibb.co/jgBjSRk/HAND.webp" alt ="images" id="jbus"/>
                     <div id="jtext">
                         <span>Growing your business </span>
                             <p>is easy</p>

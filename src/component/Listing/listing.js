@@ -9,7 +9,7 @@ import Header from '../../Header';
 
 
 
-const hotelUrl= "https://oyodhiksha.herokuapp.com/hotel/"
+const hotelUrl= "https://oyoapi-6pq8.onrender.com/hotel/"
 
 
 class Listing extends Component {

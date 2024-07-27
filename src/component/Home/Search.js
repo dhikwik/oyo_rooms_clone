@@ -2,8 +2,8 @@ import React,{Component} from 'react';
 import './Search.css';
 import {withRouter} from 'react-router-dom'
 
-const lurl="https://oyodhiksha.herokuapp.com/states"
-const rurl="https://oyodhiksha.herokuapp.com/hotel/"
+const lurl="https://oyoapi-6pq8.onrender.com/states"
+const rurl="https://oyoapi-6pq8.onrender.com/hotel/"
 
 class Search extends Component{
 

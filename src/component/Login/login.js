@@ -2,7 +2,8 @@ import React,{Component} from 'react';
 import Header from '../../Header';
 
 // const url  = "https://developerjwt.herokuapp.com/api/auth/login"
- const url="https://zomato0login.herokuapp.com/api/auth/login"
+//  const url="https://zomato0login.herokuapp.com/api/auth/login"
+const url = "";
 
 class Login extends Component {
     constructor(props){
@@ -75,7 +76,7 @@ class Login extends Component {
                                 </div>
                             </div>
                         </div>
-                        <button className="btn btn-info" onClick={this.handleSubmit}>Login</button>
+                        <button className="btn btn-info">Login</button>
                         </div>
                     </div>  
                 </div>

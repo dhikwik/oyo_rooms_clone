@@ -2,7 +2,8 @@ import React,{Component} from 'react';
  import {Link,withRouter} from 'react-router-dom';
 import './Header.css'
 
-const url = "https://zomato0login.herokuapp.com/api/auth/userinfo";
+// const url = "https://zomato0login.herokuapp.com/api/auth/userinfo";
+const url ="";
 
 class Header extends Component{
     constructor(props){
@@ -47,13 +48,13 @@ class Header extends Component{
             )
         }
     }
-
+   
     render(){
         return(
             <nav className="navbar navbar-default">
             <nav className="container-fluid">
          
-            <span className="navbar-brand mb-0 h1" id="oyo"><Link to="/"><img src="https://i.ibb.co/YtjDm16/OYO-Blog-Image.png" className="head"/></Link></span>
+            <span className="navbar-brand mb-0 h1" id="oyo"><Link to="/"><img src="https://i.ibb.co/cCFWVTz/OYO-Blog-Image.png" alt="logo_pic" className="head"/></Link></span>
             <div className="lovedive">
 
               <ul className="nav navbar-nav navbar-right">

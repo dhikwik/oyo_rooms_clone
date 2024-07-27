@@ -24,7 +24,7 @@ const Router = () => {
                 <Route exact path="/vieworder" component={ViewOrder}/>
                 <Route exact path="/placeOrder/:hotel_name" component={PlaceOrder}/>
                 <Route path="/form" component={Form}/>
-                <Route path="/login" component={Login}/>
+                {/* <Route path="/login" component={Login}/> */}
                 <Route path="/register" component={Register}/>
                 <Route path="/joinoyo" component={Joinoyo}/>
 

@@ -2,7 +2,8 @@ import React,{Component} from 'react';
 import Header from '../../Header';
 
 // const url = "https://developerjwt.herokuapp.com/api/auth/register"
-const url="https://zomato0login.herokuapp.com/api/auth/register"
+// const url="https://zomato0login.herokuapp.com/api/auth/register"
+const url ="";
 
 class Register extends Component {
     constructor(props){
